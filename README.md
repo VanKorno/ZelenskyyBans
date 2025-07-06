@@ -1,4 +1,3 @@
-# ZelenskyBansChr
 ## This is where Zelensky bans Orthodox Christianity FOR REAL:
 
 ```Kotlin
